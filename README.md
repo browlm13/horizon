@@ -1,2 +1,2 @@
 # horizon
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/browlm13/horizon/blob/master/Unknown.png)
